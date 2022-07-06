@@ -22,6 +22,10 @@ public class Main {
 		int count = Integer.MAX_VALUE;
 		
 		for(int i=l;i<=r;i++) {
+			if (getCountEight(i) == 0) {
+				System.out.println(0);
+				break;
+			}
 			if (getCountEight(i) < count) {
 				count = getCountEight(i);
 			}
