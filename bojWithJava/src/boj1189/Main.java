@@ -1,4 +1,4 @@
-package boj1189_unsolved;
+package boj1189;
 
 import java.util.*;
 
