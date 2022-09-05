@@ -1,5 +1,5 @@
-# boj
-boj problem solves
+# problem-solving
+
 
 Problem from :
 1. Baekjoon Online Judge <br>
