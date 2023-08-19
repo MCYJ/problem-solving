@@ -41,7 +41,7 @@ def solution(survey, choices):
         answer += 'A'
     else:
         answer += 'N'
-    print(types)
+
     return answer
 
     

@@ -22,5 +22,4 @@ for name in keys:
         most.append(name)
 most.sort()
 
-for name in most:
-    print(name)
+print(most[0])
